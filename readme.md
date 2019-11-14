@@ -6,11 +6,15 @@ https://aleksandarhaber.github.io/machine_learning/2019/11/13/subspace-identific
 Briefly speaking, the coded subspace identification method estimates a state-space model
 
 x_{k+1}=Ax_{k}+Bu_{k}
+
+
 y_{k}=Cx_{k}
 
 or the Kalman innovation state space model
 
 x_{k+1}=Ax_{k}+Bu_{k}+Ke_{k}
+
+
 y_{k}=Cx_{k}+e_{k}
 
 using only the input-output data sequences (u_{k},y_{k}) for k=0,1,2,..., N. Also, the method can estimate the model order. 
@@ -28,7 +32,9 @@ In Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held joi
 Explanation of the files:
 
 "test_subspace.py" - is a driver code for testing the subspace identification method, you should start from here. 
+
 "discretization_test.py" - is used to test the backward Euler method for discretizing a dynamical system
+
 "functionsSID.py" - contains the functions used to estimate the model, the functions from this file are imported in "test_subspace.py" 
 
 All the question and comments should be addressed to me:
