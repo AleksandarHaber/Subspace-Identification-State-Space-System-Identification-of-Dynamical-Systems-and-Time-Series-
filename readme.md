@@ -1,7 +1,7 @@
 ## Subspace Identification of Dynamical Systems and Time Series
 
-A detailed post accompanying the codes can be found on my GutHub webpage:
-https://aleksandarhaber.github.io/machine_learning/2019/11/13/subspace-identification.html
+A detailed post accompanying the codes can be found on this webpage:
+https://aleksandarhaber.com/introduction-to-subspace-system-identification-system-identification-tutorial/
 
 Briefly speaking, the coded subspace identification method estimates a state-space model
 
