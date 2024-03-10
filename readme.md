@@ -26,11 +26,7 @@ I have implemented a version of the Predictor Based Subspace IDentification (PBS
 A. Haber, Subspace Identification of Temperature Dynamics, https://arxiv.org/abs/1908.02379
 https://arxiv.org/abs/1908.02379
 
-Houtzager, I., van Wingerden, J. W., & Verhaegen, M. (2009, December). VARMAX-based closed-loop subspace model identification. 
-In Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held jointly with 2009 28th Chinese Control Conference (pp. 3370-3375). IEEE.
-
-
-
+If you want to refer to this implementation in your paper or report, cite that paper and this GitHub repository.
 Explanation of the files:
 
 "test_subspace.py" - is a driver code for testing the subspace identification method, you should start from here. 
