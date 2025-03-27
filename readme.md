@@ -9,6 +9,8 @@ International Public License (CC BY-NC-ND 4.0.)"
 **NoDerivatives (ND):** You cannot remix, transform, or build upon the material, meaning you can only share the original work without any adaptations. If you plan to use the code for commercial purposes, contact the author at ml.mecheng@gmail.com
 
 
+
+
 A detailed post accompanying the codes can be found on this webpage:
 https://aleksandarhaber.com/introduction-to-subspace-system-identification-system-identification-tutorial/
 
@@ -49,17 +51,3 @@ aleksandar.haber@gmail.com
 
 Also, if you are interested in improving the codes, please let me know. This implementation is not optimized for large-scale problems. 
 
-
-LICENSE: 
-THIS IS NOT FREE SOFTWARE AND CODE. IF YOU WANT TO USE THIS CODE IN THE COMMERCIAL SETTING OR ACADEMIC SETTING, THAT IS, IF YOU WORK FOR A COMPANY OR IF YOU ARE AN INDEPENDENT CONSULTANT AND IF YOU WANT TO USE THIS CODE OR IF YOU ARE ACADEMIC RESEARCHER OR STUDENT, THEN WITHOUT MY PERMISSION AND WITHOUT PAYING THE PROPER FEE, YOU ARE NOT ALLOWED TO USE THIS CODE. YOU CAN CONTACT ME AT
-
-aleksandar.haber@gmail.com
-
-TO INFORM YOURSELF ABOUT THE LICENSE OPTIONS AND FEES FOR USING THIS CODE.
-ALSO, IT IS NOT ALLOWED TO 
-
-(1) MODIFY THIS CODE IN ANY WAY WITHOUT MY PERMISSION.
-
-(2) INTEGRATE THIS CODE IN OTHER PROJECTS WITHOUT MY PERMISSION.
-
- DELIBERATE OR INDELIBERATE VIOLATIONS OF THIS LICENSE WILL INDUCE LEGAL ACTIONS AND LAWSUITS. 
