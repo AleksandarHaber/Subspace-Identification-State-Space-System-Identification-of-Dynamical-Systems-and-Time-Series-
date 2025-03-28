@@ -1,15 +1,6 @@
 ## Subspace Identification of Dynamical Systems and Time Series
 
-IMPORTANT NOTE: The code files are released under "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
-International Public License (CC BY-NC-ND 4.0.)"  
-
-**Brief explanation of the license (read the complete license):** 
-**Attribution (BY):** You must give appropriate credit and reference to the creator and code (citation). You need to provide a link to the license and link to the code files. 
-**NonCommercial (NC):** You may not use the material for commercial purposes. 
-**NoDerivatives (ND):** You cannot remix, transform, or build upon the material, meaning you can only share the original work without any adaptations. If you plan to use the code for commercial purposes, contact the author at ml.mecheng@gmail.com
-
-
-
+**IMPORTANT NOTE: First, thoroughly read the license in the file called LICENSE.md!**
 
 A detailed post accompanying the codes can be found on this webpage:
 https://aleksandarhaber.com/introduction-to-subspace-system-identification-system-identification-tutorial/
